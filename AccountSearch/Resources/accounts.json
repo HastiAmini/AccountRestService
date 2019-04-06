@@ -1,0 +1,38 @@
+[{
+		"Id": 34532,
+		"Number": "WK232323",
+		"Type": "Expense Account",
+		"Name": null,
+		"Status": "Pending"
+	}, {
+		"Id": 999999,
+		"Number": "SAV564",
+		"Type": "Savings",
+		"Name": "Holiday Savings",
+		"Status": "Active"
+	}, {
+		"Id": 34535,
+		"Number": "123456789",
+		"Type": "Credit Card",
+		"Name": "Premium Credit",
+		"Status": null
+	}, {
+		"Id": 432,
+		"Number": "1122INV012",
+		"Type": "Investment",
+		"Name": "Equity",
+		"Status": "Closed"
+	}, {
+		"Id": 34535,
+		"Number": "123456789",
+		"Type": "Credit Card",
+		"Name": "Premium Credit",
+		"Status": "Frozen"
+	}, {
+		"Id": 1,
+		"Number": "654",
+		"Type": "Mortgage",
+		"Name": "Primary home",
+		"Status": "Active"
+	}
+]

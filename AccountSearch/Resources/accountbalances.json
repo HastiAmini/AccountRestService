@@ -1,0 +1,28 @@
+{
+	"Balances": [{
+			"Id": 34532,
+			"Balance": 1111.22,
+			"Overdraft": 0.00
+		}, {
+			"Id": 99999,
+			"Balance": null,
+			"Overdraft": 702
+		}, {
+			"Id": 34535,
+			"Balance": 99.87,
+			"Overdraft": 700
+		}, {
+			"Id": 432,
+			"Balance": 21.12,
+			"Overdraft": null
+		}, {
+			"Id": 34535,
+			"Balance": 654.15,
+			"Overdraft": 2000.59
+		}, {
+			"Id": 1,
+			"Balance": 5645,
+			"Overdraft": 100
+		}
+	]
+}
